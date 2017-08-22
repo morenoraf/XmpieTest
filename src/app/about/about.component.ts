@@ -53,7 +53,7 @@ export class AboutComponent implements OnInit {
   //Chnages:
   private asyncDataWithWebpack() {
 
-    let x = 1;
+    let x = 003;
 
     setTimeout(() => {
 
