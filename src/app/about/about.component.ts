@@ -60,6 +60,7 @@ export class AboutComponent implements OnInit {
     let z = 008;
 
 
+
     setTimeout(() => {
 
       System.import('../../assets/mock-data/mock-data.json')
