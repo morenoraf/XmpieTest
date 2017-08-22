@@ -48,6 +48,9 @@ export class AboutComponent implements OnInit {
      */
     this.asyncDataWithWebpack();
   }
+
+
+  //Chnages:
   private asyncDataWithWebpack() {
     /**
      * you can also async load mock data with 'es6-promise-loader'
@@ -64,5 +67,8 @@ export class AboutComponent implements OnInit {
 
     });
   }
+
+
+
 
 }
