@@ -55,7 +55,7 @@ export class AboutComponent implements OnInit {
 
     let x = 003;
 
-    let Y = 009;
+    let Y = 010;
 
     let z = 008;
 
