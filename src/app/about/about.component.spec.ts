@@ -38,4 +38,7 @@ describe('About', () => {
     expect(console.log).toHaveBeenCalled();
   }));
 
+
+  let A = 001;
+
 });
