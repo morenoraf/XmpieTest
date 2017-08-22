@@ -55,9 +55,10 @@ export class AboutComponent implements OnInit {
 
     let x = 003;
 
-    let Y = 002;
+    let Y = 009;
 
-    let z = 003;
+    let z = 008;
+
 
 
     setTimeout(() => {
