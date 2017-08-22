@@ -55,6 +55,9 @@ export class AboutComponent implements OnInit {
 
     let x = 003;
 
+    let Y = 001;
+    
+
     setTimeout(() => {
 
       System.import('../../assets/mock-data/mock-data.json')
